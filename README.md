@@ -1,5 +1,7 @@
 # Luna - A [Lua](https://www.lua.org/) programming language with some scheduler tweaks.
 
+## Motivation/Goal
+This is a student paper to test the feasibility of using the multi-armed bandit algorithm in a scheduler to predict the execution time of subroutines.
 
 ## Licences
 This project is licensed under the MIT License.
